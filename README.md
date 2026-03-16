@@ -60,14 +60,23 @@ Tabulation for Load Test:
 
 Model graph:
 
+
 ![image](https://github.com/Abhinavguru-cse/EXP-2/blob/main/13WhatsApp%20Image%202026-03-16%20at%2011.46.29%20AM.jpeg?raw=true)
+
+
 Calculation: 
+
+
 ![image](https://github.com/Abhinavguru-cse/EXP-2/blob/main/14WhatsApp%20Image%202026-03-16%20at%2011.46.34%20AM.jpeg?raw=true)
 
 Open circuit characteristics
+
+
 ![image](https://github.com/Abhinavguru-cse/EXP-2/blob/main/Screenshot%202026-03-16%20114715.png?raw=true)
   
 Load Characteristics:
+
+
 
 ![image](https://github.com/Abhinavguru-cse/EXP-2/blob/main/Screenshot%202026-03-16%20114707.png?raw=true)
  
