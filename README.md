@@ -49,7 +49,7 @@ Procedure for Load test:
 
 Tabulation for Open Circuit Test
 
-[image](https://github.com/Abhinavguru-cse/EXP-2/blob/main/11.jpeg?raw=true)
+![image](https://github.com/Abhinavguru-cse/EXP-2/blob/main/11.jpeg?raw=true)
 
 
 
