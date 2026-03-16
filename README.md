@@ -49,6 +49,8 @@ Procedure for Load test:
 
 Tabulation for Open Circuit Test
 
+
+
 Tabulation for Load Test:
 
 Model graph:
